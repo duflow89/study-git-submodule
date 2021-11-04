@@ -1,1 +1,1 @@
-study-submodule-child
+Study Git Submodule
